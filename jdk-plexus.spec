@@ -1,5 +1,5 @@
 Name     : jdk-plexus
-Version  : plexus
+Version  : 3.3.1 
 Release  : 1
 URL      : http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.3.1/plexus-3.3.1.pom
 Source0  : http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.3.1/plexus-3.3.1.pom
